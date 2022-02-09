@@ -13,9 +13,6 @@
     Social Medias administration such as facebook, instagram, twitter. The stack i use there is the following:
     React client, NestJS server, MongoDB database.
 
-    Technologies i have experience at: JavaScript, TypeScript, NestJS, Node.js, ExpressJS, HTML, React, CSS,
-    C#, MSSQL, MySQL, WindowsForms, EntityFramework.
-
     Due to my university education I dealt with C, C++ and got knowledge at Mathematics and Algorithmization.
     I got knowledge at geometry, graph theory and high math and programmed some of them; 
     I have studied Unity and PyGame a little as a hobby.
