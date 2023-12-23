@@ -50,9 +50,16 @@ Apart from my main stack, I have experience with several other technologies and 
 
     Here you can find some of my last projects that i added as demonstrative projects.
     More information about each repository you can find in the corresponding readmes;
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/KonstantinSerebryakov/)](https://github.com/KonstantinSerebryakov/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&link=https://github.com/KonstantinSerebryakov/)](https://github.com/KonstantinSerebryakov/)
+[![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs&link=https://github.com/KonstantinSerebryakov/)](https://github.com/KonstantinSerebryakov/)
 <!--    
 ## My technologies
 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/KonstantinSerebryakov/)](https://github.com/KonstantinSerebryakov/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&link=https://github.com/KonstantinSerebryakov/)](https://github.com/KonstantinSerebryakov/)
+[![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs&link=https://github.com/KonstantinSerebryakov/)](https://github.com/KonstantinSerebryakov/)
 [//]: # (TODO: create pretty badges and group them)
 [//]: # (icons codes: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/KonstantinSerebryakov/KonstantinSerebryakov/)](https://github.com/KonstantinSerebryakov/)
