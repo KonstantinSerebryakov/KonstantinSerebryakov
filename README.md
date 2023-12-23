@@ -3,6 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/KonstantinSerebryakov/)](https://www.linkedin.com/in/KonstantinSerebryakov)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-gray?style=for-the-badge&logo=Telegram&logoColor=white&link=https://t.me/KonstantinSerebryakov)](https://t.me/KonstantinSerebryakov)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:konstantinserebryakov2000@gmail.com)](mailto:konstantinserebryakov2000@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](mailto:konstantinserebryakov2000@gmail.com)
 
 ## About Me
 **Introduction:**
