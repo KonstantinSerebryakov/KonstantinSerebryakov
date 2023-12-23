@@ -191,27 +191,6 @@ Apart from my main stack, I have experience with several other technologies and 
 )](https://github.com/KonstantinSerebryakov/)
 [![JavaScript](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 )](https://github.com/KonstantinSerebryakov/)
-[![JavaScript]()](https://github.com/KonstantinSerebryakov/)
-[![JavaScript]()](https://github.com/KonstantinSerebryakov/)
-[![JavaScript]()](https://github.com/KonstantinSerebryakov/)
-[![JavaScript]()](https://github.com/KonstantinSerebryakov/)
-[![JavaScript]()](https://github.com/KonstantinSerebryakov/)
-[![JavaScript]()](https://github.com/KonstantinSerebryakov/)
-[![JavaScript]()](https://github.com/KonstantinSerebryakov/)
-[![JavaScript]()](https://github.com/KonstantinSerebryakov/)
-[![JavaScript]()](https://github.com/KonstantinSerebryakov/)
-[![JavaScript]()](https://github.com/KonstantinSerebryakov/)
-[![JavaScript]()](https://github.com/KonstantinSerebryakov/)
-[![JavaScript]()](https://github.com/KonstantinSerebryakov/)
-[![JavaScript]()](https://github.com/KonstantinSerebryakov/)
-[![JavaScript]()](https://github.com/KonstantinSerebryakov/)
-[![JavaScript]()](https://github.com/KonstantinSerebryakov/)
-[![JavaScript]()](https://github.com/KonstantinSerebryakov/)
-[![JavaScript]()](https://github.com/KonstantinSerebryakov/)
-[![JavaScript]()](https://github.com/KonstantinSerebryakov/)
-[![JavaScript]()](https://github.com/KonstantinSerebryakov/)
-[![JavaScript]()](https://github.com/KonstantinSerebryakov/)
-[![JavaScript]()](https://github.com/KonstantinSerebryakov/)
 
 <!--    
 ## My technologies
