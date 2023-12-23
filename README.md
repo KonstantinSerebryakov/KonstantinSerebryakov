@@ -51,12 +51,11 @@ Apart from my main stack, I have experience with several other technologies and 
     Here you can find some of my last projects that i added as demonstrative projects.
     More information about each repository you can find in the corresponding readmes;
 
-#blog
+## Visualisation
+
 [![JavaScript](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://github.com/KonstantinSerebryakov/)
-#cloud
 [![JavaScript](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
 )](https://github.com/KonstantinSerebryakov/)
-#db
 [![JavaScript](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/KonstantinSerebryakov/)
 [![JavaScript](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
 )](https://github.com/KonstantinSerebryakov/)
@@ -72,7 +71,6 @@ Apart from my main stack, I have experience with several other technologies and 
 )](https://github.com/KonstantinSerebryakov/)
 [![JavaScript](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white
 )](https://github.com/KonstantinSerebryakov/)
-#frameworks
 [![JavaScript](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/KonstantinSerebryakov/)
 [![JavaScript](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white
 )](https://github.com/KonstantinSerebryakov/)
@@ -127,7 +125,6 @@ Apart from my main stack, I have experience with several other technologies and 
 )](https://github.com/KonstantinSerebryakov/)
 [![JavaScript](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white
 )](https://github.com/KonstantinSerebryakov/)
-#ide
 [![JavaScript](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white
 )](https://github.com/KonstantinSerebryakov/)
 [![JavaScript](https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white
@@ -148,7 +145,6 @@ Apart from my main stack, I have experience with several other technologies and 
 )](https://github.com/KonstantinSerebryakov/)
 [![JavaScript](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 )](https://github.com/KonstantinSerebryakov/)
-#languages
 [![JavaScript](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 )](https://github.com/KonstantinSerebryakov/)
 [![JavaScript](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
@@ -177,24 +173,20 @@ Apart from my main stack, I have experience with several other technologies and 
 )](https://github.com/KonstantinSerebryakov/)
 [![JavaScript](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white
 )](https://github.com/KonstantinSerebryakov/)
-#linters
 [![JavaScript](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white
 )](https://github.com/KonstantinSerebryakov/)
 [![JavaScript](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E
 )](https://github.com/KonstantinSerebryakov/)
-#office
 [![JavaScript](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white
 )](https://github.com/KonstantinSerebryakov/)
 [![JavaScript](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white
 )](https://github.com/KonstantinSerebryakov/)
 [![JavaScript](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
 )](https://github.com/KonstantinSerebryakov/)
-#ORM
 [![JavaScript](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white
 )](https://github.com/KonstantinSerebryakov/)
 [![JavaScript](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white
 )](https://github.com/KonstantinSerebryakov/)
-#OS
 [![JavaScript](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 )](https://github.com/KonstantinSerebryakov/)
 [![JavaScript](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
