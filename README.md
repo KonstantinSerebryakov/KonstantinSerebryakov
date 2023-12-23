@@ -45,16 +45,6 @@ Apart from my main stack, I have experience with several other technologies and 
 - Graph theory: searching, optimization, and coding with C#
 - Mathematics: higher and school mathematics, finished school math with 100% degree.
 - SAP ABAP finished traineeship
-    Hello, my name is Konstantin Serebryakov, i am student at Belarus National Technical University (BNTU).
-    My main skills are JavaScript, TypeScript, Node.js, NestJs, MongoDB, SQL.
-
-    I am currently learning react and working on my GRADUATION PROJECT. This project is Web Application for
-    Social Medias administration such as facebook, instagram, twitter. The stack i use there is the following:
-    React client, NestJS server, MongoDB database.
-
-    Due to my university education I dealt with C, C++ and got knowledge at Mathematics and Algorithmization.
-    I got knowledge at geometry, graph theory and high math and programmed some of them; 
-    I have studied Unity and PyGame a little as a hobby.
 
 ## About Repositories
 
