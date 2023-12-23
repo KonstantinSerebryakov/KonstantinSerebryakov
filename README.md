@@ -51,7 +51,7 @@ Apart from my main stack, I have experience with several other technologies and 
     Here you can find some of my last projects that i added as demonstrative projects.
     More information about each repository you can find in the corresponding readmes;
 
-## Visualisation
+## Visualisation ( listed only skills from shields.io badges collection )
 
 [![JavaScript](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://github.com/KonstantinSerebryakov/)
 [![JavaScript](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
